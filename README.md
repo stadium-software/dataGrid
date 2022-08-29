@@ -1,5 +1,5 @@
 # Using DataGrid Properties
-In this sample, we illustrate how to use the optional properties that the DataGrid offers. These optional properties are the search bar, the data export function and making records in the data set selectable. The search bar is used when the user search for specific records in the dataset. The data export function is used when its required to export the data that is displayed in the DataGrid. Making data selectable is used when you want to action specific records in the DataGrid.
+In this [Stadium](https://stadium.software) sample, we illustrate how to use the optional properties that the DataGrid offers. These optional properties are the search bar, the data export function and making records in the data set selectable. The search bar is used when the user search for specific records in the dataset. The data export function is used when its required to export the data that is displayed in the DataGrid. Making data selectable is used when you want to action specific records in the DataGrid.
 
 ### Sample Highlights:
 
